@@ -16,7 +16,7 @@ This project is a simple HTML-based web application that displays a navigation m
 ## How to Use
 1. **Clone the Repository**: Clone this project to your local machine.
    ```bash
-   git clone https://github.com/your-username/test-application.git
+   https://github.com/Madhumithaashanmugam/demoprojectHTML-CSS.git
    
 **Open the HTML File: Open index.html in your preferred web browser to view the web page.**
 open index.html
